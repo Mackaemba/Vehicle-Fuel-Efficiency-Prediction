@@ -21,7 +21,7 @@ git clone https://github.com/yourusername/predictive-analytics-portfolio.git
 cd predictive-analytics-portfolio
 git add .
 git commit -m "Add predictive analytics portfolio projects"
-git push
+git push.
 
 
 ## 1. Vehicle Fuel Efficiency Prediction
